@@ -1,13 +1,10 @@
-# Primer
+# Topic
 {: style="border-bottom: none;margin-bottom:0"}
 
-### Topic
+### Subtopic
 {: style="margin-top:0"}
-[Home](https://www.google.com) | [Github](https://www.google.com)
+[Home](https://noahkirchner.github.io/Primers/) | [Github](https://github.com/NoahKirchner/Primers)
 ## Overview
-Here goes text and whatnot.
-
-*[Text]: I LOVE TEXT
 
 
 
@@ -18,3 +15,7 @@ Here goes text and whatnot.
 
 
 
+
+
+---
+Noah Kirchner
