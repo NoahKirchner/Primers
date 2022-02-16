@@ -1,5 +1,8 @@
-# <span style="color: red">Primer</span>
+# Primer
+{: style="border-bottom: none;margin-bottom:0"}
+
 ### Topic
+{: style="margin-top:0"}
 [Home](https://www.google.com) | [Github](https://www.google.com)
 ## Overview
 Here goes text and whatnot.
