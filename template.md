@@ -1,7 +1,6 @@
 # Primer
 ### Topic
-<span font-size:1em>[Home](https://www.google.com) | [Github](https://www.google.com)</span>
-
+[Home](https://www.google.com) | [Github](https://www.google.com)
 ## Overview
 Here goes text and whatnot.
 
